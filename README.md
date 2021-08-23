@@ -34,6 +34,6 @@ Ao apresentar sua proposta, iremos observar três principais pontos:
 - Cumprimento do prazo e do roteiro com resolução das perguntas.
 
 ### Processo de submissão
-- O link do repositóro deve ser enviado para os e-mails: 
-    - brendacamara@opovodigital.com
+- Os arquivos devem ser enviados por e-mail para:
+    brendacamara@opovodigital.com
 
