@@ -24,7 +24,7 @@ Que referências, ferramentas e metodologias usaria para apoiar seu trabalho?
 Como você comunicaria sua solução para seu Gerente de Produto, Product Designer e os desenvolvedores, e o que você entregaria para que os objetivos possam ser desenvolvidos e testados?
 Como você mensuraria o sucesso da sua solução, uma vez entregue?
 
-2. Proposta Visual
+2. Proposta Visual (design responsivo)
 
 
 ### Critérios de Avaliação
