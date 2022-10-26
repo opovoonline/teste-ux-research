@@ -18,14 +18,14 @@ Com base nesses detalhes, apresente uma estratégia de pesquisa que apoie o dese
 O formato da apresentação deve ser em PDF e você deve usar os materiais da identidade visual em anexo. 
 
 ### Roteiro da apresentação
-1. Metodologia (deve responder cada uma das seguintes perguntas): Que tipo de informação adicional precisaria para tomar suas decisões?
-Qual seria sua abordagem para coletar essas informações?
-Que referências, ferramentas e metodologias usaria para apoiar seu trabalho?
-Como você comunicaria sua solução para seu Gerente de Produto, Product Designer e os desenvolvedores, e o que você entregaria para que os objetivos possam ser desenvolvidos e testados?
-Como você mensuraria o sucesso da sua solução, uma vez entregue?
+<b>1. Metodologia (deve responder cada uma das seguintes perguntas):</b>
+- Que tipo de informação adicional precisaria para tomar suas decisões?
+- Qual seria sua abordagem para coletar essas informações?
+- Que referências, ferramentas e metodologias usaria para apoiar seu trabalho?
+- Como você comunicaria sua solução para seu Gerente de Produto, Product Designer e os desenvolvedores, e o que você entregaria para que os objetivos possam ser desenvolvidos e testados?
+- Como você mensuraria o sucesso da sua solução, uma vez entregue?
 
-2. Proposta Visual (design responsivo)
-
+<b>2. Proposta Visual (design responsivo)</b>
 
 ### Critérios de Avaliação
 Ao apresentar sua proposta, iremos observar três principais pontos:
